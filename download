@@ -1,0 +1,4 @@
+# Emscripten browser build outputs
+web/game.js
+web/game.wasm
+_site/
